@@ -1,0 +1,11 @@
+yfinance
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+PyPortfolioOpt
+cvxpy
+scikit-learn  # Optional, for ML
+XGBoost       # Optional, for ML
+PyCaret       # Optional, for ML
