@@ -58,5 +58,5 @@ The results and key insights from each optimization method are documented clearl
 
 - **Mean-Variance Optimization:** [03_mean_variance_optimization.ipynb](notebooks/03_mean_variance_optimization.ipynb)
 - **Sharpe Ratio Optimization:** [04_sharpe_ratio_optimization.ipynb](notebooks/04_sharpe_ratio_optimization.ipynb)
-- **Black-Litterman Model:** [05_black_litterman.ipynb](notebooks/05_high_growth_portfolio.ipynb)
+- **Black-Litterman Model:** [05_high_growth_portfolio.ipynb](notebooks/05_high_growth_portfolio.ipynb)
 
