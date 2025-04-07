@@ -6,8 +6,8 @@ This project explores various methods of portfolio optimization using quantitati
 
 - **Mean-Variance Optimization (Markowitz Model)**: Minimizing risk at a given return level.
 - **Sharpe Ratio Optimization**: Maximizing the risk-adjusted returns of the portfolio.
-- **Black-Litterman Model** *(Optional)*: Incorporating investor views into the optimization process.
-- **Machine Learning-based Return Predictions** *(Optional)*: Enhancing portfolio allocation using predictive modeling.
+- **Black-Litterman Model** : Incorporating investor views into the optimization process.
+- **Machine Learning-based Return Predictions** : Enhancing portfolio allocation using predictive modeling.
 
 ## Quickstart Instructions
 
