@@ -40,7 +40,7 @@ jupyter notebook
   2. `02_exploratory_analysis.ipynb`
   3. `03_mean_variance_optimization.ipynb`
   4. `04_sharpe_ratio_optimization.ipynb`
-  5. `05_black_litterman.ipynb`
+  5. `05_high_growth_portfolio.ipynb`
 
 ### Strategy Dashboard
 
