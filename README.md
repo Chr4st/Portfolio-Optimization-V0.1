@@ -6,7 +6,7 @@ This project explores various methods of portfolio optimization using quantitati
 
 - **Mean-Variance Optimization (Markowitz Model)**: Minimizing risk at a given return level.
 - **Sharpe Ratio Optimization**: Maximizing the risk-adjusted returns of the portfolio.
-- **Black-Litterman Model** : Incorporating investor views into the optimization process.
+- **Black-Litterman (High-Growth) Model** : Incorporating investor views into the optimization process.
 
 
 ## Quickstart Instructions
@@ -49,5 +49,5 @@ The results and key insights from each optimization method are documented clearl
 
 - **Mean-Variance Optimization:** [03_mean_variance_optimization.ipynb](notebooks/03_mean_variance_optimization.ipynb)
 - **Sharpe Ratio Optimization:** [04_sharpe_ratio_optimization.ipynb](notebooks/04_sharpe_ratio_optimization.ipynb)
-- **Black-Litterman Model:** [05_black_litterman.ipynb](notebooks/05_black_litterman.ipynb)
+- **Black-Litterman Model:** [05_black_litterman.ipynb](notebooks/05_high_growth_portfolio.ipynb)
 
