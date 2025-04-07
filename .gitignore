@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~*
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+*.csv
+*.xls
+*.xlsx
+*.db
+*.sqlite
+
+# Output artifacts
+outputs/results/
+outputs/plots/
+outputs/reports/
+
+# Logs and misc
+*.log
+*.tmp
+*.bak
+*.pid
+
+# OS-specific files
+.DS_Store
+Thumbs.db
