@@ -40,8 +40,8 @@ jupyter notebook
   2. `02_exploratory_analysis.ipynb`
   3. `03_mean_variance_optimization.ipynb`
   4. `04_sharpe_ratio_optimization.ipynb`
-  5. *(Optional)* `05_black_litterman.ipynb`
-  6. *(Optional)* `06_ml_return_predictions.ipynb`
+  5. `05_black_litterman.ipynb`
+  6. `06_ml_return_predictions.ipynb`
 
 ## Results Summary
 
