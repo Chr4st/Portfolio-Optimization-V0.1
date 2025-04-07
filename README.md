@@ -7,7 +7,7 @@ This project explores various methods of portfolio optimization using quantitati
 - **Mean-Variance Optimization (Markowitz Model)**: Minimizing risk at a given return level.
 - **Sharpe Ratio Optimization**: Maximizing the risk-adjusted returns of the portfolio.
 - **Black-Litterman Model** : Incorporating investor views into the optimization process.
-- **Machine Learning-based Return Predictions** : Enhancing portfolio allocation using predictive modeling.
+
 
 ## Quickstart Instructions
 
@@ -41,7 +41,7 @@ jupyter notebook
   3. `03_mean_variance_optimization.ipynb`
   4. `04_sharpe_ratio_optimization.ipynb`
   5. `05_black_litterman.ipynb`
-  6. `06_ml_return_predictions.ipynb`
+
 
 ## Results Summary
 
@@ -49,17 +49,5 @@ The results and key insights from each optimization method are documented clearl
 
 - **Mean-Variance Optimization:** [03_mean_variance_optimization.ipynb](notebooks/03_mean_variance_optimization.ipynb)
 - **Sharpe Ratio Optimization:** [04_sharpe_ratio_optimization.ipynb](notebooks/04_sharpe_ratio_optimization.ipynb)
-- **Black-Litterman Model:** *(Optional)* [05_black_litterman.ipynb](notebooks/05_black_litterman.ipynb)
-- **ML-based Predictions:** *(Optional)* [06_ml_return_predictions.ipynb](notebooks/06_ml_return_predictions.ipynb)
-
-### Directory Structure
-```
-PortfolioOptimization_V0.1/
-├── data/                # Raw and processed datasets
-├── notebooks/           # Jupyter notebooks with analysis
-├── scripts/             # Supporting Python scripts
-├── outputs/             # Generated results and visualizations
-├── requirements.txt     # Python package requirements
-└── README.md            # Project documentation
-```
+- **Black-Litterman Model:** [05_black_litterman.ipynb](notebooks/05_black_litterman.ipynb)
 
