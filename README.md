@@ -46,11 +46,11 @@ jupyter notebook
 
 - Run the Dash app to explore strategies interactively:
 
-python app.py
-Visit http://127.0.0.1:8050 in your browser to:
-Compare portfolio growth (Max Sharpe, High Growth, DCA)
-View allocation pie charts
-See forecast overlays
+python app.py`
+Visit http://127.0.0.1:8050 in your browser to:`
+Compare portfolio growth (Max Sharpe, High Growth, DCA)`
+View allocation pie charts`
+See forecast overlays`
 
 ## Results Summary
 
