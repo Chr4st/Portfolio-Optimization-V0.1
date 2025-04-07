@@ -42,18 +42,14 @@ jupyter notebook
   4. `04_sharpe_ratio_optimization.ipynb`
   5. `05_black_litterman.ipynb`
 
- Strategy Dashboard
+### Strategy Dashboard
 
-Run the Dash app to explore strategies interactively:
+- Run the Dash app to explore strategies interactively:
 
 python app.py
-
 Visit http://127.0.0.1:8050 in your browser to:
-
 Compare portfolio growth (Max Sharpe, High Growth, DCA)
-
 View allocation pie charts
-
 See forecast overlays
 
 ## Results Summary
